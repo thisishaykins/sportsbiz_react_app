@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+![SportsBiz React Item Counter App](https://github.com/thisishaykins/sportsbiz_react_app/blob/main/src/assets/images/sportsbiz_react_item_counter_app_image.png?raw=true)
+
+
+# SportsBiz React Items Counter App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
