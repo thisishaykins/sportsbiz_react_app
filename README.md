@@ -5,6 +5,17 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Descriptions & Requirements
+Implement a counter component in React with three buttons: +, -, and reset. Additionally, create another component that displays the changes in the counter value using Redux.
+
+### Requirements
+- The counter component should have an initial value of 0 and display the current value.
+- Clicking the + button should increment the counter value by 1.
+- Clicking the - button should decrement the counter value by 1.
+- Clicking the reset button should reset the counter value to 0.
+- Create a separate component that  displays the changes in the counter value.
+- The component should display the previous and current values of the counter whenever it changes.
+
 ## Available Scripts
 
 In the project directory, you can run:
